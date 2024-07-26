@@ -6,4 +6,4 @@ def test_function():
 
 test_function()
 
-
+# если вызвать inner_function() снаружи, то её не видно!
